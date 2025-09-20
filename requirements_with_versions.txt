@@ -20,7 +20,7 @@ fileinfo==0.3.3
 backend==0.2.4.1
 win10toast==0.9
 Counter==1.0.0
-Flask==3.1.1
+Flask==3.1.2
 selenium==4.34.2
 firebase-admin==7.1.0
 ujson==5.10.0
@@ -55,7 +55,7 @@ pydantic==2.11.7
 openpyxl==3.1.2
 pytesseract==0.3.13
 requests-mock==1.12.1
-pyglet==2.1.6
+pyglet==2.1.8
 urllib3==2.5.0
 thirdai==0.9.33
 google-api-python-client==2.179.0
@@ -95,8 +95,7 @@ freegames==2.5.3
 pyperclip==1.8.2
 newspaper==0.1.0.7
 opencv-python==4.12.0.88
-tensorflow==2.20.0
-pandas==2.3.1
+
 pytest==8.4.1
 qrcode==8.2
 googletrans==4.0.2
@@ -111,3 +110,6 @@ plyer==2.1.0
 Flask-Ask==0.9.8
 emoji==2.14.1
 PyAutoGUI==0.9.54
+tensorflow==2.20.0
+
+pandas==2.3.2
